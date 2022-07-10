@@ -17,8 +17,8 @@ const main = async () => {
 
     const app = Express();
 
-    // await clearTables();
-    // await seedUsersTable();
+    await clearTables();
+    await seedUsersTable();
 
     await server.start();
 
