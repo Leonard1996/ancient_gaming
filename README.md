@@ -1,0 +1,1 @@
+# Ancient Gaming Betting API
